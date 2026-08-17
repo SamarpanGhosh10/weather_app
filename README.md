@@ -22,7 +22,7 @@ A simple weather application built with Python that uses the OpenWeather API to 
 * Git & GitHub
 
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -53,7 +53,7 @@ Replace `your_api_key_here` with your OpenWeather API key.
 python weather_app.py
 ```
 
-## 💻 Example
+##  Example
 
 ```text
 Enter city: Kolkata
@@ -72,7 +72,7 @@ The API key is stored in a `.env` file instead of being directly written in the 
 
 The `.env` file is included in `.gitignore` so that the API key is not uploaded to GitHub.
 
-## 📚 What I Learned
+##  What I Learned
 
 This project helped me learn:
 
@@ -85,7 +85,7 @@ This project helped me learn:
 * Protecting API keys
 * Using Git and GitHub
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add a graphical user interface
 * Add weather icons
