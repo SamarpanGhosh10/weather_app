@@ -66,7 +66,7 @@ Condition: overcast clouds
 Wind speed: 4.63 m/s
 ```
 
-## 🔐 API Key Security
+##  API Key Security
 
 The API key is stored in a `.env` file instead of being directly written in the Python source code.
 
